@@ -58,15 +58,15 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 | **[Python Module 08](./python_module_08)** | `Python` | `Validated` | Setup of virtual environments, dependency managers (pip/Poetry), and runtime environment variables [5]. |
 | **[Python Module 09](./python_module_09)** | `Python` | `Validated` | Creation of strict data models, custom validation rules, and nested structure parsing using Pydantic [5]. |
 | **[Python Module 10](./python_module_10)** | `Python` | `Validated` | Advanced functional programming concepts, custom decorators, and lambda scopes inside an RPG setting [5]. |
-| **[Born2beroot](./born2beroot)** | `Shell/SysAdmin` | `Validated` | Set up a secure Debian virtual machine implementing strict sudo rules, UFW, and SSH [4, 5]. |
-| **[A-Maze-ing](./a-maze-ing)** | `Python` | `Validated (with Bonus)` | Developed a procedural maze generator and visualizer complying with custom constraints [4, 5]. |
+| **[Born2beroot](./M.2/Born2beroot)** | `Shell/SysAdmin` | `Validated` | Set up a secure Debian virtual machine implementing strict sudo rules, UFW, and SSH [4, 5]. |
+| **[A-Maze-ing](./M.2/A-Maze-ing)** | `Python` | `Validated (with Bonus)` | Developed a procedural maze generator and visualizer complying with custom constraints [4, 5]. |
 
 #### 📌 Milestone 3
 | Project | Language | Status | Description |
 | :--- | :---: | :---: | :--- |
-| **[Fly-in](./Fly-in)** | `Python` | `Validated (with Bonus)` | Designed an autonomous multi-drone routing simulation using concurrent graph pathfinding [4, 5]. |
-| **[Codexion](./Codexion)** | `C` | `Validated` | Managed concurrency, resource scheduling, POSIX threads, and deadlock prevention in system environments [4, 5]. |
-| **[Call Me Maybe](./Call_Me_Maybe)** | `Python` | `In Progress` | Exploring object-oriented programming, data relationships, and architecture paradigms [4]. |
+| **[Fly-in](./M.3/Fly-in)** | `Python` | `Validated (with Bonus)` | Designed an autonomous multi-drone routing simulation using concurrent graph pathfinding [4, 5]. |
+| **[Codexion](./M.3/Codexion)** | `C` | `Validated` | Managed concurrency, resource scheduling, POSIX threads, and deadlock prevention in system environments [4, 5]. |
+| **[Call Me Maybe](./M.3/Call_Me_Maybe)** | `Python` | `In Progress` | Exploring object-oriented programming, data relationships, and architecture paradigms [4]. |
 
 ---
 
