@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+output_maze.txt
+.venv/

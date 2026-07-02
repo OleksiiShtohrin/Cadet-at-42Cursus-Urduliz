@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mazegen"
+version = "1.0.0"
+authors = [
+    { name="Dolgorma Zhambalova", email="dzhambal@student.42urduliz.com" },
+    { name="Oleksii Shtohrin", email="oshtohri@student.42urduliz.com" }
+]
+description = "Reusable maze-generation library for A-Maze-ing v2.1"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[tool.setuptools]
+py-modules = ["a_maze_ing"]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["mazegen*"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = false
+ignore_missing_imports = true
+
+[tool.flake8]
+max-line-length = 79
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

@@ -1,0 +1,14 @@
+# A-Maze-ing v2.1 - Default configuration
+# All lines starting with '#' are comments.
+
+WIDTH=20
+HEIGHT=15
+ENTRY=0,0
+EXIT=19,14
+OUTPUT_FILE=output_maze.txt
+PERFECT=False
+# SEED=42
+DISPLAY_COLOR=True
+ALGORITHM=DFS
+ANIMATE=False
+ANIMATION_DELAY=0.01

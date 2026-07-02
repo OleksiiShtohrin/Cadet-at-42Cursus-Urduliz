@@ -1,0 +1,2 @@
+class InvalidCreatureStrategyError(Exception):
+    pass
