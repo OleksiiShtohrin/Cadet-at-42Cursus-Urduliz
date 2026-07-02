@@ -35,19 +35,19 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 #### 📌 Milestone 0
 | Project | Language | Status | Description |
 | :--- | :---: | :---: | :--- |
-| **[Libft](./libft)** | `C` | `Validated` | Recoded standard C library functions to understand memory allocation and basic algorithms [3, 4]. |
+| **[Libft](./Libft)** | `C` | `Validated` | Recoded standard C library functions to understand memory allocation and basic algorithms [3, 4]. |
 
 #### 📌 Milestone 1
 | Project | Language | Status | Description |
 | :--- | :---: | :---: | :--- |
-| **[ft_printf](./ft_printf)** | `C` | `Validated` | Recreated the standard formatting output function using variadic arguments [3, 4]. |
-| **[push_swap](./push_swap)** | `C` | `Validated` | Optimized data sorting on dual stacks with a limited instruction set [3, 4]. |
-| **[get_next_line](./get_next_line)** | `C` | `Validated (with Bonus)` | Designed an efficient file descriptor line-reading utility using static buffers [3, 5]. |
+| **[ft_printf](./M.1/ft_printf)** | `C` | `Validated` | Recreated the standard formatting output function using variadic arguments [3, 4]. |
+| **[push_swap](./M.1/push_swap)** | `C` | `Validated` | Optimized data sorting on dual stacks with a limited instruction set [3, 4]. |
+| **[get_next_line](./M.1/get_next_line)** | `C` | `Validated (with Bonus)` | Designed an efficient file descriptor line-reading utility using static buffers [3, 5]. |
 
 #### 📌 Milestone 2
 | Project | Language | Status | Description |
 | :--- | :---: | :---: | :--- |
-| **[Python Module 00](./python_module_00)** | `Python` | `Validated` | Introduction to basic syntax and programming fundamentals through practical community garden scenarios [5]. |
+| **[Python Module 00](./M.2/Python_Module_00)** | `Python` | `Validated` | Introduction to basic syntax and programming fundamentals through practical community garden scenarios [5]. |
 | **[Python Module 01](./python_module_01)** | `Python` | `Validated` | Implementation of core Object-Oriented Programming (OOP) concepts by designing virtual plant classes [5]. |
 | **[Python Module 02](./python_module_02)** | `Python` | `Validated` | Exception handling and data pipeline construction for smart agricultural monitoring systems [5]. |
 | **[Python Module 03](./python_module_03)** | `Python` | `Validated` | Deep dive into manipulating and optimizing Python's native data structures using game data [5]. |
@@ -64,9 +64,9 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 #### 📌 Milestone 3
 | Project | Language | Status | Description |
 | :--- | :---: | :---: | :--- |
-| **[Fly-in](./fly-in)** | `Python` | `Validated (with Bonus)` | Designed an autonomous multi-drone routing simulation using concurrent graph pathfinding [4, 5]. |
-| **[Codexion](./codexion)** | `C` | `Validated` | Managed concurrency, resource scheduling, POSIX threads, and deadlock prevention in system environments [4, 5]. |
-| **[Call Me Maybe](./call_me_maybe)** | `Python` | `In Progress` | Exploring object-oriented programming, data relationships, and architecture paradigms [4]. |
+| **[Fly-in](./Fly-in)** | `Python` | `Validated (with Bonus)` | Designed an autonomous multi-drone routing simulation using concurrent graph pathfinding [4, 5]. |
+| **[Codexion](./Codexion)** | `C` | `Validated` | Managed concurrency, resource scheduling, POSIX threads, and deadlock prevention in system environments [4, 5]. |
+| **[Call Me Maybe](./Call_Me_Maybe)** | `Python` | `In Progress` | Exploring object-oriented programming, data relationships, and architecture paradigms [4]. |
 
 ---
 
@@ -79,5 +79,5 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 ### 📬 Let's Connect!
 *   **Location:** Bizkaia, Spain 🇪🇸 [1]
 *   **GitHub:** [@OleksiiShtohrin](https://github.com/OleksiiShtohrin)
-*   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+*   **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
