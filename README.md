@@ -78,6 +78,6 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 
 ### 📬 Let's Connect!
 *   **Location:** Bizkaia, Spain 🇪🇸 [1]
-*   **GitHub:** [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+*   **GitHub:** [@OleksiiShtohrin](https://github.com/OleksiiShtohrin)
 *   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
