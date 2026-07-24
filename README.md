@@ -72,7 +72,7 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 | :--- | :---: | :---: | :--- |
 | **[Fly-in](./M.3/Fly-in)** | `Python` | `Validated (with Bonus)` | Designed an autonomous multi-drone routing simulation using concurrent graph pathfinding [4, 5]. |
 | **[Codexion](./M.3/Codexion)** | `C` | `Validated` | Managed concurrency, resource scheduling algorithms (FIFO/EDF), POSIX threads, and deadlock prevention in system environments [4, 5]. |
-| **[Call Me Maybe](./M.3/CallMeMaybe)** | `Python` | `In Progress` | LLM, Exploring object-oriented programming, DB & Data relationships, and architecture paradigms [4]. |
+| **[Call Me Maybe](./M.3/Call-Me-Maybe)** | `Python` | `Validated` | LLM, Exploring object-oriented programming, DB & Data relationships, and architecture paradigms [4]. |
 
 ---
 
