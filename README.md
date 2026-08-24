@@ -7,13 +7,13 @@ A software engineering student at **42 Urduliz Bizkaia** (Fundación Telefónica
 ### 📊 42 Network Stats & Progress
 *   **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸 [1]
 *   **Start Date:** January 12, 2026 [1]
-*   **Current Level:** `4.04 / 21` [1]
-*   **Common Core Completion:** `22%` [2]
+*   **Current Level:** `4.80 / 21` [1]
+*   **Common Core Completion:** `36%` [2]
 
 ```
-Common Core Progress: [████░░░░░░░░░░░░░░░░] 22%
+Common Core Progress: [███████░░░░░░░░░░░░░] 36%
 ```
-# **[Transcript.pdf](./oshtohri_2026-06-30_transcript.pdf)**
+# **[Transcript.pdf](./oshtohri_2026-08-24_transcript.pdf)**
 
 
 ### 🛠️ Tech Stack & Skills
@@ -72,13 +72,21 @@ Common Core Progress: [████░░░░░░░░░░░░░░░
 | :--- | :---: | :---: | :--- |
 | **[Fly-in](./M.3/Fly-in)** | `Python` | `Validated (with Bonus)` | Designed an autonomous multi-drone routing simulation using concurrent graph pathfinding [4, 5]. |
 | **[Codexion](./M.3/Codexion)** | `C` | `Validated` | Managed concurrency, resource scheduling algorithms (FIFO/EDF), POSIX threads, and deadlock prevention in system environments [4, 5]. |
-| **[Call Me Maybe](./M.3/Call-Me-Maybe)** | `Python` | `Validated` | LLM, Exploring object-oriented programming, DB & Data relationships, and architecture paradigms [4]. |
+| **[Call Me Maybe](./M.3/CallMeMaybe)** | `Python` | `Validated (with Bonus)` | LLM-based function calling system using constrained decoding to translate natural language into structured JSON outputs [4, 5]. |
+
+#### 📌 Milestone 4
+| Project | Language | Status | Description |
+| :--- | :---: | :---: | :--- |
+| **[Pac-Man](https://github.com/aurelienog/pacman)** | `Python` | `Validated` | Recreated the classic Pac-Man arcade game with a modern modular architecture and clean project structure [4, 6]. |
+| **[NetPractice](./M.4/NetPractice)** | `Network` | `Validated` | Solved complex networking routing cases, subnetting, TCP/IP addressing, and gateway configurations [4, 6]. |
+| **[RAG against the machine](./M.4/RAG_AgainstTheMachine)** | `Python` | `In Progress` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines [4]. |
 
 ---
 
 ### 🏆 Exam Certifications
 *   **Exam Rank 02** (Validated: March 17, 2026) [4]
 *   **Exam Rank 03** (Validated: May 13, 2026) [4]
+*   **Exam Rank 04** (Validated: July 30, 2026) [4]
 
 ---
 
