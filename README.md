@@ -7,11 +7,11 @@ A software engineering student at **42 Urduliz Bizkaia** (Fundación Telefónica
 ### 📊 42 Network Stats & Progress
 *   **Campus:** 42 Urduliz Bizkaia (Spain) 🇪🇸 [1]
 *   **Start Date:** January 12, 2026 [1]
-*   **Current Level:** `4.80 / 21` [1]
-*   **Common Core Completion:** `36%` [2]
+*   **Current Level:** `5.38 / 21` [1]
+*   **Common Core Completion:** `57%` [2]
 
 ```
-Common Core Progress: [███████░░░░░░░░░░░░░] 36%
+Common Core Progress: [████████████░░░░░░░░] 57%
 ```
 # **[Transcript.pdf](./oshtohri_2026-08-24_transcript.pdf)**
 
@@ -79,7 +79,12 @@ Common Core Progress: [███████░░░░░░░░░░░░
 | :--- | :---: | :---: | :--- |
 | **[Pac-Man](https://github.com/aurelienog/pacman)** | `Python` | `Validated` | Recreated the classic Pac-Man arcade game with a modern modular architecture and clean project structure [4, 6]. |
 | **[NetPractice](./M.4/NetPractice)** | `Network` | `Validated` | Solved complex networking routing cases, subnetting, TCP/IP addressing, and gateway configurations [4, 6]. |
-| **[RAG against the machine](./M.4/RAG_AgainstTheMachine)** | `Python` | `In Progress` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines [4]. |
+| **[RAG against the machine](https://github.com/OleksiiShtohrin/RAG_AgainstTheMachine)** | `Python` | `Validated (with Bonus)` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines [4]. |
+
+#### 📌 Milestone 5
+| Project | Language | Status | Description |
+| :--- | :---: | :---: | :--- |
+| **[Inception](https://github.com/OleksiiShtohrin/)** | `Network/SysAdmin` | `in progress` | Network & system administration by using Docker, Rigor. |
 
 ---
 
