@@ -13,7 +13,7 @@ A software engineering student at **42 Urduliz Bizkaia** (Fundación Telefónica
 ```
 Common Core Progress: [████████████░░░░░░░░] 57%
 ```
-# **[Transcript.pdf](./oshtohri_2026-08-24_transcript.pdf)**
+# **[Transcript.pdf](./oshtohri_2026-09-17_transcript.pdf)**
 
 
 ### 🛠️ Tech Stack & Skills
@@ -79,7 +79,7 @@ Common Core Progress: [████████████░░░░░░░
 | :--- | :---: | :---: | :--- |
 | **[Pac-Man](https://github.com/aurelienog/pacman)** | `Python` | `Validated` | Recreated the classic Pac-Man arcade game with a modern modular architecture and clean project structure [4, 6]. |
 | **[NetPractice](./M.4/NetPractice)** | `Network` | `Validated` | Solved complex networking routing cases, subnetting, TCP/IP addressing, and gateway configurations [4, 6]. |
-| **[RAG against the machine](https://github.com/OleksiiShtohrin/RAG_AgainstTheMachine)** | `Python` | `Validated (with Bonus)` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines [4]. |
+| **[RAG against the machine](https://github.com/OleksiiShtohrin/RAG_AgainstTheMachine)** | `Python` | `Validated (with Bonus)` | Building a Retrieval-Augmented Generation (RAG) system incorporating vector databases and LLM pipelines [4, 6]. |
 
 #### 📌 Milestone 5
 | Project | Language | Status | Description |
